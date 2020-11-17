@@ -1,6 +1,6 @@
 <html>
 <head>
-   <title>Название страницы</title>
+   <title>Тест</title>
    <?php
       require_once $_SERVER['DOCUMENT_ROOT'].'/head.php';
    ?>
